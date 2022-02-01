@@ -1,1 +1,1 @@
-# C programmıng MultiDimensional_Arrays Example
+# C programming MultiDimensional_Arrays Example
