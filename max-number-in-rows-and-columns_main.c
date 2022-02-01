@@ -5,14 +5,13 @@
 
 
 void maximum(int arr[5][5],int row, int column); // maximum function prototype
-void print(int arr[5][5], int row, int column);  // printf fucntion prototype
+void print(int arr[5][5], int row, int column);  // print function prototype
 
 
 
 
 
-int main(int argc, char *argv[])
-{
+int main(int argc, char *argv[]){
 	int array[5][5] = {{6,5,9,8,7},{4,3,2,1,8},{7,4,3,5,1},{1,3,6,4,5},{3,1,2,5,0}}; // All rows and columns
 	print(array,5,5);
 	printf("\n\n\n");
