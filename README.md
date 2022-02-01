@@ -1,1 +1,1 @@
-# C programming MultiDimensional_Arrays Example
+# Type a function that finds the largest elements in the rows and columns of a 5x5 matrix.The function prints the largest elements of each row.Then it prints the largest elements of each column.(C PROGRAMMING)
